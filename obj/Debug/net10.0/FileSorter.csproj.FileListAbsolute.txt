@@ -1,0 +1,14 @@
+C:\Users\mateu\Desktop\Código\FileSorter\bin\Debug\net10.0\FileSorter.exe
+C:\Users\mateu\Desktop\Código\FileSorter\bin\Debug\net10.0\FileSorter.deps.json
+C:\Users\mateu\Desktop\Código\FileSorter\bin\Debug\net10.0\FileSorter.runtimeconfig.json
+C:\Users\mateu\Desktop\Código\FileSorter\bin\Debug\net10.0\FileSorter.dll
+C:\Users\mateu\Desktop\Código\FileSorter\bin\Debug\net10.0\FileSorter.pdb
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.AssemblyInfo.cs
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.dll
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\refint\FileSorter.dll
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.pdb
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\FileSorter.genruntimeconfig.cache
+C:\Users\mateu\Desktop\Código\FileSorter\obj\Debug\net10.0\ref\FileSorter.dll
