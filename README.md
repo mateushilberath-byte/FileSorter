@@ -15,7 +15,7 @@ Se o comando não retornar um número de versão, baixe e instale o [.NET](dotne
 
 2. Extraia o conteúdo do repositório para um diretório de sua preferência.
 
-3. Abra o arquivo sort.cs, e altere a string 'target' para um diretório de sua preferência.
+3. Abra o arquivo Program.cs, e altere a string 'target' para um diretório de sua preferência.
 
 4. Abra um terminal na pasta onde sort.cs está localizado, e execute o comando:
 
