@@ -9,7 +9,7 @@ Procura por arquivos em um diretório e move eles para pastas organizadas por ex
 
 ``````cmd
 dotnet --version
-```
+``````
 
 Se o comando não retornar um número de versão, baixe e instale o [.NET](dotnet.microsoft.com).
 
@@ -19,6 +19,17 @@ Se o comando não retornar um número de versão, baixe e instale o [.NET](dotne
 
 4. Abra um terminal na pasta onde sort.cs está localizado, e execute o comando:
 
-```cmd
+``````cmd
 dotnet run
-```
+``````
+
+### Tecnologias utilizadas
+
+<img 
+    align="left" 
+    alt="Csharp"
+    title="Csharp" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
